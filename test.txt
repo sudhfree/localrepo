@@ -1,0 +1,4 @@
+# devopsrepo
+this is about devops training
+
+adding chenge to merge from cli
